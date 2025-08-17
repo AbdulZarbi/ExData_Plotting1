@@ -20,3 +20,4 @@ hist(data$Global_reactive_power,
      main = "Global Active Power",
      xlab = "Global Active Power (Kilowatts)")
 dev.off()
+
